@@ -1,4 +1,8 @@
-# nextjs-first
+# nextjs-first app
 
-### npm install
-### npm start
+## Project setup
+
+```
+npm install
+npm start
+```
